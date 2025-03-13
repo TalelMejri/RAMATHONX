@@ -230,7 +230,7 @@
             <h3 style="color:#fff">
               1st Place : 500DT
               <br>
-              2sc Place : 250DT
+              2nd Place : 250DT
             </h3>
             <div class="all_link">
               <a class=" mx-2" target="_blank" href="https://www.facebook.com/sabrine.kamkoum"><i
